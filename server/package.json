@@ -29,7 +29,7 @@
     "@types/jwt-decode": "^2.2.1",
     "@types/mongoose": "^5.5.23",
     "@types/twitter": "^1.7.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "hbs": "^4.0.6",
     "jwt-decode": "^2.2.0",
